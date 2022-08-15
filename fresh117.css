@@ -1,0 +1,11 @@
+.about{
+text-align: center;
+}
+.header{
+    position:fixed; 
+    width: 100%; 
+    z-index: 1;
+}
+.header-color{
+    background: linear-gradient(90deg, #efd5ff 0%, #515ada 100%);
+}
