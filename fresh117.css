@@ -9,3 +9,9 @@ text-align: center;
 .header-color{
     background: linear-gradient(90deg, #efd5ff 0%, #515ada 100%);
 }
+.footerWrapper {
+    overflow:hidden;
+ }
+ .h1-color{
+    color: #a39aee;
+ }
